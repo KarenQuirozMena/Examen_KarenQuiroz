@@ -1,0 +1,72 @@
+.fondo_header{
+	background: black;
+}
+a{
+	text-decoration: none;
+	text-align: center;
+	color: white;
+}
+.menu{
+	display: inline-block;
+	margin: 3%;
+	float: right;
+}
+.img_header{
+	width: 80%;
+	height: auto;
+	margin: 5%;
+}
+.boton{
+	background: gray;
+	color: white;
+	border-radius: 100%;
+	margin-top: 5%;
+	width: 25%;
+	height: 20%;
+	text-align: center;
+}
+.borde_separador{ /*revisar porque no se ha aplicado*/
+	border-bottom: 2px solid gray;
+}
+/*Se cambio por la clase bg-gray
+.fondo_gris{
+	background: gray;
+	height: 1000px;
+}*/
+.fondo_blanco{
+	background: white;
+}
+.li_LatestProjects{
+	display: inline-block;
+	float: left;
+	margin: 0% 2% 0% 7%;
+}
+.margin_latest{ /*verificar porque no se puede mover el titulo de la segunda sección*/
+	margin-right: 10%;
+}
+.boton_load{
+	background: gray;
+	color: white;
+	border-radius: 50%;
+	margin: 5% 0% 7% 42%;
+	width: 15%;
+	height: 15%;
+	text-align: center;
+}
+.boton_follow{
+	background: gray;
+	color: white;
+	border-radius: 50%;
+	margin: 5% 0% 20% 42%;
+	width: 30%;
+	height: 30%;
+	text-align: center;
+}
+.fondo_pie{
+	background: black;
+	color: white;
+}
+.menu_pie{
+	margin: 2%;
+	text-decoration: none;
+}
